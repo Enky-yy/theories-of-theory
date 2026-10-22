@@ -4,7 +4,7 @@
 > models** on Ames Housing under one identical preprocessing protocol, evaluates each with
 > **9 metrics**, and uses **SHAP** to explain *why* the models agree — and where they diverge.
 
-**Live notebook view:** open [`part 1/index.html`](part 1/index.html) (rendered via `nbconvert`; all plots
+**Live notebook view:** open [`part 1/index.html`](webpage/index.html) (rendered via `nbconvert`; all plots
 and SHAP visuals are embedded).
 
 ---
