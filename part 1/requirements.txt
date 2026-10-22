@@ -1,0 +1,15 @@
+# The Metric & SHAP Benchmark — Part 1: Regression
+# Pinned to the versions that produced every number in README.md
+# Python 3.12.14
+
+scikit-learn==1.9.1
+pandas==3.0.6
+numpy==2.4.6
+xgboost==3.4.1
+shap==0.54.1
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Jupyter (needed to run / re-render the notebook; not pinned to a single version)
+jupyter
+nbconvert

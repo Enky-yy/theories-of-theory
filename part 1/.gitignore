@@ -1,0 +1,16 @@
+# Working backups — local artifacts only, not for the repo
+*.bak
+*.bak2
+*.bak.*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
