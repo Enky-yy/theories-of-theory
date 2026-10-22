@@ -1,6 +1,6 @@
 # The Metric & SHAP Benchmark — Part 1: Regression
 
-> **Project 5, Part 1 of 2.** A single, disciplined pipeline that benchmarks **8 regression
+> **Part 1 of 2.** A single, disciplined pipeline that benchmarks **8 regression
 > models** on Ames Housing under one identical preprocessing protocol, evaluates each with
 > **9 metrics**, and uses **SHAP** to explain *why* the models agree — and where they diverge.
 
